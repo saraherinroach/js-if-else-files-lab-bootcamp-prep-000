@@ -5,3 +5,4 @@ var height = "60"
 module.exports = { name, height
 }
 
+height = parseInt(height)
